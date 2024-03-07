@@ -1,11 +1,15 @@
 {
-    "name": "bjorn-voesten/ciphersweet-for-laravel",
-    "description": "",
+    "name": "wprigollopes/ciphersweet-for-laravel",
+    "description": "Forked package from bjornvoestern/ciphersweet-for-laravel",
     "license": "MIT",
     "authors": [
         {
             "name": "Bjorn Voesten",
             "email": "bjorn-voesten@live.nl"
+        },
+        {
+            "name": "William Prigol Lopes",
+            "email": "william.prigol.lopes@gmail.com"
         }
     ],
     "autoload": {
